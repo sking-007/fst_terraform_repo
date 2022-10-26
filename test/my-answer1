@@ -1,0 +1,5 @@
+iWrite the command for merging someone's code?
+
+Answer:?*git merge<branch name>
+>to verify the merge 
+*git log
