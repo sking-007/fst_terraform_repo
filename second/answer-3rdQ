@@ -1,0 +1,3 @@
+use branch concept for parallel development, Each task has seperate branch, after done with codes , merge branch with master, 
+
+
